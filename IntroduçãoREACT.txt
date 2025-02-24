@@ -1,0 +1,36 @@
+
+FRAMEWORK -É um conjunto de estruturas de conceitos, práticas, bibliotecas ferramentas que fornece uma base para desenvolver um software
+
+REACT JS - Um FRAMEWORK de códigos aberto criado pelo Eng. Jordan enquanto trabalhava no Facebook, depois lançado em 2013 com idéia de
+criar interface de usuários(UI) interativas e reativas em aplicações web.
+    ->trabalhava em servidor enviando e recebendo informações entre usuário e máquina
+    ->Consegue em módulos (trabalhar em partes)
+    ->Pré requisitos
+        ->NODE
+        ->Os três pilares de WEBdev (HTML, CSS e JS)
+
+NODE.JS - FRAMEWORK criado em 2009, baseado em javascript em modo server side(trabalha em servidor), permite criar APIS, aplicações de chat e microserviços
+
+NPM - Gerenciador de pacotes, ferramentas, para instalar depedências em seus projetos
+    ->Instala as depedências para os seus projetos
+    ->Já vem ao baixar o NODE
+
+ESLINT - Ferramentas de Análise de síntase do código do seu projeto, identifica padrões e errors, ajuda o código a ficar mais organizado
+    ->Teste de qualidade de software no seu projeto
+
+VITE - Uma ferramenta de construção de código, em vez de empacotar todo código ele permite carregar modulos individualmente
+    ->Faz o build (Descompilação do projeto), é ágil por carregar modulos em sequência ou individualmente
+
+API - É o consumo de dados em outros servidores que estão disponíveis, a gente usa o NODE para acessa-los 
+
+
+---------------------------------------------------------------------------
+                ---->>>MINHAS ANOTAÇÕES DA AULA<<<------
+---------------------------------------------------------------------------
+
+NO TERMINAL
+npm install express    === Instala os módulos de node 
+    -->>A pasta criada por esse comando NUNCA DEVE ESTAR NO GIT HUB<<--
+
+
+touch .gitignore

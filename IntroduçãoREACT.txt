@@ -38,3 +38,7 @@ npm install express    === Instala os módulos de node
     -->>A pasta criada por esse comando NUNCA DEVE ESTAR NO GIT HUB<<--
     -->>Use o git ignore e coloque o nome do arquivo lá dentro 
     touch .gitignore === Para ignorar a pasta node para não subir no GIT HUB
+
+node server.js === Executar o servidor
+
+crtl + C  === Parar o servidor

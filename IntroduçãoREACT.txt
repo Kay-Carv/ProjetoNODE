@@ -29,8 +29,12 @@ API - É o consumo de dados em outros servidores que estão disponíveis, a gent
 ---------------------------------------------------------------------------
 
 NO TERMINAL
-npm install express    === Instala os módulos de node 
+
+node -v === Versão do node
+npm -v === Versão do gerenciador de pacotes
+npm init -y === Cria o projeto principal
+
+npm install express    === Instala os módulos de node
     -->>A pasta criada por esse comando NUNCA DEVE ESTAR NO GIT HUB<<--
-
-
-touch .gitignore
+    -->>Use o git ignore e coloque o nome do arquivo lá dentro 
+    touch .gitignore === Para ignorar a pasta node para não subir no GIT HUB
